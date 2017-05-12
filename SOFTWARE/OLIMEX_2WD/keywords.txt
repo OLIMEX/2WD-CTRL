@@ -1,0 +1,54 @@
+#######################################
+# Syntax Coloring Map OLIMEX_2WD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Olimex2WD	KEYWORD1	Olimex2WD
+Infra	KEYWORD1	Infra
+MotorTimer	KEYWORD1	MotorTimer
+MotorDriver	KEYWORD1	MotorDriver
+MotorHardware	KEYWORD1	MotorHardware
+IR_command	KEYWORD1	IR_command
+CARSTATE	KEYWORD1	CARSTATE
+STRATEGY_type	KEYWORD1	STRATEGY_type
+CarStrategy	KEYWORD1	CarStrategy
+Automatic	KEYWORD1	Automatic
+Remote	KEYWORD1	Remote
+Infra	KEYWORD1	Infra
+Sonic	KEYWORD1	Sonic
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setPwm	KEYWORD2
+speed	KEYWORD2
+stop	KEYWORD2
+fwd		KEYWORD2
+bckwd	KEYWORD2
+getType	KEYWORD2
+getName	KEYWORD2
+updateSpeed	KEYWORD2
+calcSpeed	KEYWORD2
+incSpeed	KEYWORD2
+decSpeed	KEYWORD2
+init	KEYWORD2
+wireCmd	KEYWORD2
+getCmd	KEYWORD2
+cmdStr	KEYWORD2
+getDistance			KEYWORD2
+motorSpeedCalc		KEYWORD2
+simonSays			KEYWORD2
+addRemoteControl	KEYWORD2
+go					KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+MAX_MODULES	LITERAL1
+MAX_DIST	LITERAL1
+MIN_DIST	LITERAL1
+REV_DIST	LITERAL1
+STOP_DIST	LITERAL1
+MIN_SPEED	LITERAL1
+MAX_SPEED	LITERAL1
+SPEED_STEP	LITERAL1
