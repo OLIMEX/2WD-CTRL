@@ -16,3 +16,5 @@ You can find Arduino library compatible with the board in folder [SOFTWARE](SOFT
   - 90 RPM @ 3.3V/0.15A
 - 1x castor free-rolling wheel
 - All necessary fittings
+
+## [Assembly Instructions](doc/web/assembly.md)
