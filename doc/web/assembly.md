@@ -1,7 +1,12 @@
 ![robot-2wd2-6](../images/robot-2wd2-6.jpg "robot-2wd2-6")
 
-We have new Robot Chassis in stock!
-It’s with two gear motors, two aluminum plates, a free-rolling castor wheel, two 60 mm wheels attached to the motors, andall necessary fittings.
+The robot chassis kit contains:
+
+- 2x gear motors
+- 2xaluminum plates
+- 1xfree-rolling castor wheel
+- 2x 60 mm wheels attached to the motors
+- all necessary fittings
 
 Assembly is very simple:
 
@@ -35,8 +40,8 @@ Now we are thinking for possible custom control board with these features:
 - Motor drivers
 - Motor encoders which to give feed back to Arduino with photo interrupters
 - LiPo Battery charger and step up converter for motor and Arduino powering
-- UEXT for ESP8266 WiFi
-- two sockets for Ultrasonic distance sensors on the two sides of the castor wheel
+- UEXT for [ESP8266 WiFi](https://www.olimex.com/Products/IoT/MOD-WIFI-ESP8266/open-source-hardware)
+- two sockets for [ultrasonic distance sensors](https://www.olimex.com/Products/Components/Sensors/SNS-US020) on the two sides of the castor wheel
 - (optional RT5350F-OLinuXino with camera)
 - connectors for optional servo motors for robot hand
 - UEXT second connector for attaching more sensors
