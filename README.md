@@ -11,6 +11,8 @@ You can find Arduino library compatible with the board in folder [SOFTWARE](SOFT
 
 - Chassis size: 100 x 85 mm
 - 2x 60 mm wheels
-- 2x Gear Motors: 200 RPM@6V/0.2A and 90 RPM@3.3V/0.15A
+- 2x Gear Motors:
+  - 200 RPM @ 6V/0.2A
+  - 90 RPM @ 3.3V/0.15A
 - 1x castor free-rolling wheel
 - All necessary fittings
